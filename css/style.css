@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+   
+}
+.color-heder{
+    display: flex;
+    flex-wrap: wrap;
+   background-color: #084e02;
+     
+     
+}
+
+.color-heder img{
+    width: 170px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.color-heder h1{
+    margin-top: 25px;
+    margin-left: 30%;
+    font-size: 40px;
+    color: white;
+
+ }
+
+.navegador{
+    border: 2px solid #038803;
+}
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+    
+}
+.posicion img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.posicion{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+   
+    width: 400px;
+ 
+}
+
+
+
+
